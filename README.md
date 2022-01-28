@@ -93,7 +93,7 @@ AI applications. All Jetson modules and developer kits are supported by JetPack 
 supports all Jetson modules.
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/PujaKamble/garbage_detection/blob/main/jetson_nano.jpg)
 
 ## Proposed System
 
@@ -255,6 +255,10 @@ source '0' for webcam
 !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 
 ```
+
+https://user-images.githubusercontent.com/98114997/151496993-2c96b0fc-745b-4455-80a7-7beed0f20ee5.mp4
+
+
 
 
 ## Advantages
